@@ -1,1 +1,1 @@
-# Prediction-of-Diabetic-Retinopathy
+# Diabetic Retinopathy Prediction
